@@ -65,3 +65,6 @@ Cybersecurity education and training platforms
 
 Enterprise security systems for safe browsing
 
+<img width="1430" alt="image" src="https://github.com/user-attachments/assets/e0008b9f-1d57-4c52-9a69-d4ceaea35b28" />
+
+
